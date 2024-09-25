@@ -9,7 +9,7 @@ const AppRoutes: React.FC = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/sergipanes-final" element={<Access />} />
+        <Route path="/srgpn-final" element={<Access />} />
         <Route path="/gameTeam01" element={<GameTeam1 />} />
         <Route path="/endgame" element={<EndGameScreen />} />
         <Route path="/results" element={<Results />} />

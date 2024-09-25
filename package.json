@@ -2,7 +2,7 @@
   "name": "srgpn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pepepepu.github.io/sergipanes-final",
+  "homepage": "https://pepepepu.github.io/srgpn-final",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

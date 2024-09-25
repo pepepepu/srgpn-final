@@ -51,7 +51,7 @@ const Results: React.FC = () => {
   ];
 
   const handleNavigate = () => {
-    navigate("/sergipanes-final");
+    navigate("/srgpn-final");
   };
 
   const handleResetScores = () => {
